@@ -1,0 +1,1 @@
+restore database test2 from disk='d:\exercise\test2bak.bak'

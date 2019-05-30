@@ -1,0 +1,7 @@
+What's your name?
+How old are you?
+
+Where are you living?
+
+
+end

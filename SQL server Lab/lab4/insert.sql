@@ -1,0 +1,10 @@
+use Library
+insert into Borrow values(1,'R01','B01','2015-03-09','2015-04-05')
+insert into Borrow values(2,'R01','B03','2015-04-11','2015-05-15')
+insert into Borrow values(3,'R02','B01','2014-12-20','2015-01-10')
+insert into Borrow values(4,'R03','B02','2014-11-25','2015-01-10')
+insert into Borrow values(5,'R03','B01','2015-06-12','2015-07-10')
+insert into Borrow values(6,'R04','B03','2015-05-08','2015-07-10')
+insert into Borrow values(7,'R04','B02','2015-06-05','2015-08-10')
+insert into Borrow values(8,'R05','B04','2015-07-20',null)
+insert into Borrow values(9,'R06','B05','2015-08-01',null)

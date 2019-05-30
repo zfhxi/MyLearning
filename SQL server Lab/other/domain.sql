@@ -1,0 +1,1 @@
+SELECT DEFAULT_DOMAIN()[DomainName]
